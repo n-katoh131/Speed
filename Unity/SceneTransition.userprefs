@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TopScene.cs" Line="17" Column="4" />
+      <File FileName="Assets/Scripts/GameScene.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/ResultScene.cs" Line="13" Column="51" />
+      <File FileName="Assets/Scripts/TutorialScene.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/SceneMonoBehaviour.cs" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
